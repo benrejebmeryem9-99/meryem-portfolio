@@ -346,9 +346,7 @@ export default function Home() {
       {/* FOOTER */}
       <footer className="border-t border-[#57483F] bg-[#382E29] px-6 py-7 text-[#D7CBC0] md:px-12">
         <div className="mx-auto flex max-w-7xl flex-wrap justify-between gap-4 text-xs">
-          <p>
-            © {new Date().getFullYear()} Meryem Ben Rejeb
-          </p>
+          <p>© 2026 Meryem Ben Rejeb</p>
           <p>
             Designed with curiosity, research & purpose.
           </p>
